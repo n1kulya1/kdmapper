@@ -5,3 +5,4 @@ x64
 HelloWorld/.vs
 Intermediate
 SymbolsFromPDB/offsets.ini
+*.sys
